@@ -1,6 +1,6 @@
 import {
     mobile,
-    backend,
+    ux,
     creator,
     web,
     javascript,
@@ -50,8 +50,8 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "UX Designer",
+      icon: ux,
     },
     {
       title: "Content Creator",
