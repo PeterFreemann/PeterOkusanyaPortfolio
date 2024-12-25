@@ -89,6 +89,7 @@ const Contact = () => {
             <input
               type='text'
               name='name'
+              required
               value={form.name}
               onChange={handleChange}
               placeholder="What's your good name?"
@@ -98,6 +99,8 @@ const Contact = () => {
           <label className='flex flex-col'>
             <span className='text-white font-medium mb-4'>Your email</span>
             <input
+            required
+
               type='email'
               name='email'
               value={form.email}
@@ -109,6 +112,7 @@ const Contact = () => {
           <label className='flex flex-col'>
             <span className='text-white font-medium mb-4'>Your Message</span>
             <textarea
+            required
               rows={7}
               name='message'
               value={form.message}
