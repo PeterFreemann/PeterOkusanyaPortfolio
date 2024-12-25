@@ -155,8 +155,8 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "UX Designer",
+      company_name: "Barbers Limited",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -198,7 +198,7 @@ import {
   
   const projects = [
     {
-      name: "Lagcloud Webistte",
+      name: "Lagcloud Webisite",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
