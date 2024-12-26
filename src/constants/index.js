@@ -122,10 +122,10 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Built and maintained dynamic web applications using React.js, enhancing user experience and performance.",
+        "Optimized application performance, reducing load times by 30% through code refactoring and efficient state management.",
+        "Collaborated with UI/UX designers to implement engaging, pixel-perfect interfaces.",
+        "Conducted comprehensive unit and integration testing to ensure software quality and reliability.",
       ],
     },
     {
@@ -135,36 +135,38 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed cross-platform mobile applications with React Native, achieving seamless functionality on iOS and Android.",
+        "Integrated RESTful APIs for dynamic content delivery, enhancing app responsiveness.",
+        "Worked closely with the QA team to debug and resolve issues, achieving a 95% bug-free release rate.",
+        "Implemented animations and transitions to improve user engagement and app interactivity.",
       ],
     },
     {
-      title: "Web Developer",
+      title: "UX Design",
       company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Redesigned user interfaces for Shopify web applications, improving customer satisfaction by 20%.",
+        "Conducted user research and usability testing to gather insights for design improvements.",
+        "Created wireframes, prototypes, and design documentation to streamline development processes.",
+        "Collaborated with developers to ensure accurate implementation of design concepts.",
+
       ],
     },
     {
-      title: "UX Designer",
+      title: "Next.js Developer",
       company_name: "Barbers Limited",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed server-rendered web applications using Next.js, improving performance and SEO.",
+    "Integrated APIs and implemented dynamic routing to create a seamless user experience.",
+    "Optimized application performance, achieving a 25% reduction in load times through advanced caching techniques.",
+    "Collaborated with design and product teams to implement scalable and reusable components.",
+    "Conducted code reviews and maintained high standards for code quality and best practices.",
       ],
     },
   ];
@@ -219,7 +221,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Barbers Limited Web App",
+      name: "Car Rent",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
