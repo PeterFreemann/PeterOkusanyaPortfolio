@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
@@ -218,7 +218,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      
     },
     {
       name: "Car Rent",
@@ -239,7 +239,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      
     },
     
     {
@@ -261,7 +261,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      
     },
   ];
   
