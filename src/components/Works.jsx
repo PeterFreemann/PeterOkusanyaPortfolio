@@ -37,7 +37,6 @@ const ProjectCard = ({
               
             </div> */}
 
-
           </div>
 
         </div>
