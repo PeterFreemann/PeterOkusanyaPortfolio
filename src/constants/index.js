@@ -121,7 +121,7 @@ import {
       company_name: "Lagcloud Solution",
       icon: lagcloud,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Aug 2020 - April 2021",
       points: [
         "Built and maintained dynamic web applications using React.js, enhancing user experience and performance.",
         "Optimized application performance, reducing load times by 30% through code refactoring and efficient state management.",
@@ -135,7 +135,7 @@ import {
       company_name: "Barbers Limited",
       icon: Barbers,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Aug 2022 - Jan 2021",
       points: [
         "Redesigned user interfaces for Barber Limied web applications, improving customer satisfaction by 20%.",
         "Conducted user research and usability testing to gather insights for design improvements.",
@@ -145,11 +145,24 @@ import {
       ],
     },
     {
+      title: "React Developer",
+      company_name: "Barbers Limited",
+      icon: Barbers,
+      iconBg: "#383E56",
+      date: "Aug 2021 - Jan 2023",
+      points: [
+        "Revamped the UI/UX of Barbers Limited web applications using React and Material UI, leading to a 20% increase in user satisfaction and engagement.",
+        "Integrated customer feedback loops, conducting user research and usability tests to drive data-informed design decisions.",
+        "Developed interactive wireframes and high-fidelity prototypes using Figma, enhancing collaboration between design and development teams.",
+        "Worked closely with backend developers and QA engineers to ensure seamless translation of design specs into fully responsive web interfaces.",
+      ]
+    },
+    {
       title: "Next.js Developer",
       company_name: "V-ent",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "March 2025 - Present",
       points: [
         "Developed server-rendered web applications using Next.js, improving performance and SEO.",
     "Integrated APIs and implemented dynamic routing to create a seamless user experience.",
