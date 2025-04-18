@@ -20,9 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import lagcloud from "./company/lagcloud.png";
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import Barbers from "./company/header-logo.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
@@ -53,10 +53,11 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
+  Barbers,
   starbucks,
   tesla,
   carrent,
+  lagcloud,
   jobit,
   tripguide,
 };

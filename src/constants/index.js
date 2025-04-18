@@ -16,9 +16,8 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
-    tesla,
-    shopify,
+    lagcloud,
+    Barbers,
     carrent,
     jobit,
     tripguide,
@@ -54,7 +53,7 @@ import {
       icon: ux,
     },
     {
-      title: "Content Creator",
+      title: "Next.js Developer",
       icon: creator,
     },
   ];
@@ -118,7 +117,7 @@ import {
     {
       title: "React.js Developer",
       company_name: "Lagcloud Solution",
-      icon: starbucks,
+      icon: lagcloud,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
@@ -128,27 +127,15 @@ import {
         "Conducted comprehensive unit and integration testing to ensure software quality and reliability.",
       ],
     },
-    {
-      title: "React Native Developer",
-      company_name: "Open Frame Works",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developed cross-platform mobile applications with React Native, achieving seamless functionality on iOS and Android.",
-        "Integrated RESTful APIs for dynamic content delivery, enhancing app responsiveness.",
-        "Worked closely with the QA team to debug and resolve issues, achieving a 95% bug-free release rate.",
-        "Implemented animations and transitions to improve user engagement and app interactivity.",
-      ],
-    },
+    
     {
       title: "UX Design",
-      company_name: "Shopify",
-      icon: shopify,
+      company_name: "Barbers Limited",
+      icon: Barbers,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Redesigned user interfaces for Shopify web applications, improving customer satisfaction by 20%.",
+        "Redesigned user interfaces for Barber Limied web applications, improving customer satisfaction by 20%.",
         "Conducted user research and usability testing to gather insights for design improvements.",
         "Created wireframes, prototypes, and design documentation to streamline development processes.",
         "Collaborated with developers to ensure accurate implementation of design concepts.",
@@ -157,7 +144,7 @@ import {
     },
     {
       title: "Next.js Developer",
-      company_name: "Barbers Limited",
+      company_name: "V-ent",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -174,25 +161,25 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
+        "I thought it was impossible to make a website as beautiful as our product, but Peter proved me wrong.",
+      name: "Sarah Smith",
+      designation: "Managing Director",
       company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
+        "I've never met a web developer who truly cares about their clients' success like Peter does.",
+      name: "Folarin Odeyemi",
+      designation: "CEO",
       company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Peter optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
-      designation: "CTO",
+      designation: "Manager",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
