@@ -23,6 +23,8 @@ import {
     tripguide,
     threejs,
   } from "../assets";
+
+  import winner from "../assets/company/winner.jpg";
   
   export const navLinks = [
     {
@@ -162,17 +164,17 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Peter proved me wrong.",
-      name: "Sarah Smith",
+      name: "Winner Coca",
       designation: "Managing Director",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      company: "V-ent",
+      image: winner,
     },
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Peter does.",
       name: "Folarin Odeyemi",
       designation: "CEO",
-      company: "DEF Corp",
+      company: "Barbers Limited",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
@@ -180,7 +182,7 @@ import {
         "After Peter optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "Manager",
-      company: "456 Enterprises",
+      company: "Lagcloud-solutions",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
