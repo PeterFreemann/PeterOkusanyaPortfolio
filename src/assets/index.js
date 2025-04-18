@@ -48,6 +48,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  lagcloud,
   redux,
   tailwind,
   typescript,
@@ -57,7 +58,6 @@ export {
   starbucks,
   tesla,
   carrent,
-  lagcloud,
   jobit,
   tripguide,
 };
