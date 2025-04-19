@@ -121,7 +121,7 @@ import {
       company_name: "Lagcloud Solution",
       icon: lagcloud,
       iconBg: "#383E56",
-      date: "Aug 2020 - April 2021",
+      date: "Aug 2021 - April 2023",
       points: [
         "Built and maintained dynamic web applications using React.js, enhancing user experience and performance.",
         "Optimized application performance, reducing load times by 30% through code refactoring and efficient state management.",
@@ -135,7 +135,7 @@ import {
       company_name: "Barbers Limited",
       icon: Barbers,
       iconBg: "#383E56",
-      date: "Aug 2022 - Jan 2021",
+      date: "Aug 2022 - June 2023",
       points: [
         "Redesigned user interfaces for Barber Limied web applications, improving customer satisfaction by 20%.",
         "Conducted user research and usability testing to gather insights for design improvements.",
@@ -149,7 +149,7 @@ import {
       company_name: "Barbers Limited",
       icon: Barbers,
       iconBg: "#383E56",
-      date: "Aug 2021 - Jan 2023",
+      date: "Aug 2022 - Dec 2024",
       points: [
         "Revamped the UI/UX of Barbers Limited web applications using React and Material UI, leading to a 20% increase in user satisfaction and engagement.",
         "Integrated customer feedback loops, conducting user research and usability tests to drive data-informed design decisions.",
