@@ -26,6 +26,7 @@ import {
 
   import winner from "../assets/company/winner.jpg";
   import folarin from "../assets/company/folarin.jpg";
+  import obaela from "../assets/company/OBAELAIFA.png";
 
   
   export const navLinks = [
@@ -161,6 +162,19 @@ import {
     },
     {
       title: "Next.js Developer",
+      company_name: "Obaela",
+      icon: obaela,
+      iconBg: "#E6DEDD",
+      date: "Jan 2025 - Feb 2025",
+      points: [
+        "Improved page responsiveness and load times by 35% through efficient use of Next.js dynamic routing and Tailwind CSS utility classes.",
+    "Increased development efficiency by 40% by building and reusing modular Tailwind components across multiple pages",
+    "Boosted overall UI/UX consistency by 50% through close collaboration with designers and seamless integration of responsive layouts",
+    
+      ],
+    },
+    {
+      title: "Next.js Developer",
       company_name: "V-ent",
       icon: meta,
       iconBg: "#E6DEDD",
@@ -230,7 +244,7 @@ import {
         "Web platform for discovering, booking, and managing gaming events and venues, supporting titles like PUBG, FIFA, and more.",
       tags: [
         {
-          name: "Nexjjs",
+          name: "Nextjs",
           color: "blue-text-gradient",
         },
         {
