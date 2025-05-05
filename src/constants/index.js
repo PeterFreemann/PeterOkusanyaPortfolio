@@ -25,6 +25,8 @@ import {
   } from "../assets";
 
   import winner from "../assets/company/winner.jpg";
+  import folarin from "../assets/company/folarin.jpg";
+
   
   export const navLinks = [
     {
@@ -187,16 +189,16 @@ import {
         "I've never met a web developer who truly cares about their clients' success like Peter does.",
       name: "Folarin Odeyemi",
       designation: "CEO",
-      company: "Barbers Limited",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      company: "Obaela",
+      image: folarin,
     },
     {
       testimonial:
         "After Peter optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+      name: "Lekan Oshipitan",
       designation: "Manager",
       company: "Lagcloud-solutions",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
   ];
   
@@ -204,7 +206,7 @@ import {
     {
       name: "Lagcloud Webisite",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Cloud-based platform delivering web and mobile solutions for businesses, focused on scalability and user experience.",
       tags: [
         {
           name: "react",
@@ -215,7 +217,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Material UI",
           color: "pink-text-gradient",
         },
       ],
@@ -223,20 +225,20 @@ import {
       
     },
     {
-      name: "Car Rent",
+      name: "V-ent",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web platform for discovering, booking, and managing gaming events and venues, supporting titles like PUBG, FIFA, and more.",
       tags: [
         {
-          name: "react",
+          name: "Nexjjs",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Material UI",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "restapi",
           color: "pink-text-gradient",
         },
       ],
