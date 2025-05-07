@@ -20,7 +20,7 @@ const Navbar = () => {
         }}>
 
       
-      <p className='text-white text-[18px] font-bold cursor-pointer flex ml-1'>Peter Portfolio
+      <p className='text-white text-[18px] font-bold cursor-pointer flex ml-1'>Peter's Portfolio
 
       </p>
        </a>
