@@ -120,7 +120,6 @@ import {
   
   const experiences = [
     
-    
     {
       title: "UX Design",
       company_name: "Barbers Limited",
