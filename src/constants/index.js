@@ -120,14 +120,13 @@ import {
   
   const experiences = [
     
-    
     {
       title: "UX Design",
       company_name: "Barbers Limited",
       icon: Barbers,
       iconBg: "#383E56",
       
-      date: "Aug 2021 - April 2023",
+      date: "Aug 2021 - April 2022",
       
       points: [
         "Redesigned user interfaces for Barber Limied web applications, improving customer satisfaction by 20%.",
