@@ -220,7 +220,7 @@ import {
   
   const projects = [
     {
-      name: "Lagcloud Webisite",
+      name: "Lagcloud Website",
       description:
         "Cloud-based platform delivering web and mobile solutions for businesses, focused on scalability and user experience.",
       tags: [
