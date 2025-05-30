@@ -211,10 +211,10 @@ import {
     {
       testimonial:
         "After Peter optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lekan Oshipitan",
+      name: "Folarin Odeyemi",
       designation: "Manager",
       company: "Lagcloud-solutions",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: folarin,
     },
   ];
   
