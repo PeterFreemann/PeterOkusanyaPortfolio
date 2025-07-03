@@ -220,7 +220,7 @@ import {
   
   const projects = [
     {
-      name: "Lagcloud Website",
+      name: "Techure",
       description:
         "Cloud-based platform delivering web and mobile solutions for businesses, focused on scalability and user experience.",
       tags: [
@@ -233,11 +233,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "Material UI",
+          name: "tailwind CSS",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
+      link: "https://techuredev.netlify.app/",
       
     },
     {
@@ -259,16 +260,17 @@ import {
         },
       ],
       image: carrent,
+      link: "https://test.app.v-ent.co/",
       
     },
     
     {
-      name: "Trip Guide",
+      name: "Home Heroes",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Empowering families with trusted services for a safer, cleaner, and more comfortable home.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
@@ -276,11 +278,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Tailwind css",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
+      link: "https://homeheroes.netlify.app/",
       
     },
   ];
