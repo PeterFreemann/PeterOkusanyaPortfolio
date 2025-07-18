@@ -61,6 +61,10 @@ import {
       title: "Next.js Developer",
       icon: creator,
     },
+    {
+      title: "React Native Developer",
+      icon: mobile,
+    },
   ];
   
   const technologies = [
