@@ -27,6 +27,9 @@ import {
   import winner from "../assets/company/winner.jpg";
   import folarin from "../assets/company/folarin.jpg";
   import obaela from "../assets/company/OBAELAIFA.png";
+  import Smedan from '../assets/company/smedan-logo.png'
+  import Ease from '../assets/company/logo-icon.png'
+
 
   
   export const navLinks = [
@@ -179,6 +182,7 @@ import {
     
       ],
     },
+    
     {
       title: "Next.js Developer",
       company_name: "V-ent",
@@ -193,6 +197,31 @@ import {
     "Conducted code reviews and maintained high standards for code quality and best practices.",
       ],
     },
+    {
+  "title": "React Native Developer",
+  "company_name": "Instantease",
+  "icon": Ease,
+  "iconBg": "#E6DEDD",
+  "date": "Sept 2025 - Present",
+  "points": [
+    "Optimized mobile app performance, reducing initial load time by 35% through lazy loading, image optimization, and efficient state management in React Native.",
+    "Improved development efficiency by 40% by building reusable UI components with Tailwind CSS (NativeWind) and implementing a modular component architecture.",
+    "Enhanced UI/UX consistency by 50% through close collaboration with designers and delivering pixel-perfect responsive layouts across iOS and Android.",
+    "Successfully configured and deployed iOS builds to TestFlight, enabling faster internal testing and reducing release feedback cycles."
+  ]
+},
+{
+  "title": "Frontend Developer",
+  "company_name": "SMEDAN (BOI-SMEDAN Entrepreneurship Programme)",
+  "icon": Smedan,
+  "date": "Feb 2026 - April 2026",
+  "points": [
+    "Built and maintained a multi-role portal system supporting Super Admin, Client, Project Officer, Vetting Officers, and State Manager roles with role-based access control and protected routing.",
+    "Developed a dynamic candidate enumeration and application form with multi-step validation, conditional field rendering, KYC verification, and OTP-based re-verification flows.",
+    "Implemented a beneficiary assignment system allowing clients to assign candidates to project officers with real-time filtering by assigned officer across vetting and verification modules.",
+    "Integrated audit trail, disbursement upload, whitelisting, and loan band management features across the full beneficiary lifecycle from nomination to disbursement."
+  ]
+}
   ];
   
   const testimonials = [
