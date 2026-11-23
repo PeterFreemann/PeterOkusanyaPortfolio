@@ -187,7 +187,7 @@ const experiences = [
     company_name: "V-ent",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "March 2025 - Present",
+    date: "March 2025 - Aug 2025",
     points: [
       "Developed server-rendered web applications using Next.js, improving performance and SEO.",
       "Integrated APIs and implemented dynamic routing to create a seamless user experience.",
@@ -196,6 +196,20 @@ const experiences = [
       "Conducted code reviews and maintained high standards for code quality and best practices.",
     ],
   },
+  {
+    title: "Full-stack Developer",
+    company_name: "Home heroes",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "Dec 2024 - Dec 2025",
+    points: [
+      "Developed and maintained a full-stack web application using React, Node.js, and MongoDB, enhancing user experience and functionality.",
+      "Implemented RESTful APIs and integrated third-party services to streamline data flow and improve application performance.",
+      "Optimized database queries and server-side logic, resulting in a 30% reduction in response times and improved scalability.",
+      "Collaborated with cross-functional teams to gather requirements, design features, and ensure timely delivery of high-quality software solutions.",
+    ],
+  },
+  
   {
     title: "React Native Developer",
     company_name: "Instantease",
