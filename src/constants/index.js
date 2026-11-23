@@ -66,6 +66,10 @@ const services = [
     title: "React Native Developer",
     icon: mobile,
   },
+  {
+    title: "Full-stack Developer",
+    icon: mobile,
+  },
 ];
 
 const technologies = [
